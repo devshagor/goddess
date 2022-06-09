@@ -766,9 +766,21 @@ footer {
   background: #f6c451;
   color: #fff;
   text-decoration: none;
-  padding: 10px 15px;
+  padding: 20px 51px;
   display: inline-block;
   text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 36px;
+}
+.main-heading {
+  font-size: 45px;
+  font-weight: 700;
+  color: #f00;
+  margin-bottom: 20px;
+  max-width: 1000px;
+  text-align: center;
+  margin: 0 auto 20px;
 }
 #showcas {
   text-align: center;
@@ -780,4 +792,13 @@ footer {
 }
 .gap-2x {
   height: 30px;
+}
+.content {
+  max-width: 1000px;
+  margin: 0 auto;
+ 
+}
+.content p {
+  font-size: 20px;
+  line-height: 26px;
 }
